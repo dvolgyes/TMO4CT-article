@@ -1,0 +1,9 @@
+head_drago.png  0.202 5.85
+head_durand.png  0.207 6.18
+head_fattal.png  0.202 6.15
+head_ferradans.png  0.019 7.08
+head_mantiuk06.png  0.231 7.10
+head_mantiuk08.png  0.207 6.26
+head_reinhard02.png  0.202 5.86
+head_reinhard05.png  0.200 5.80
+head_proposed.png  0.224 6.73

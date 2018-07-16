@@ -1,0 +1,9 @@
+head_drago.png  S= 0.794
+head_durand.png  S= 0.749
+head_fattal.png  S= 0.836
+head_ferradans.png  S= 0.835
+head_mantiuk06.png  S= 0.828
+head_mantiuk08.png  S= 0.783
+head_reinhard02.png  S= 0.803
+head_reinhard05.png  S= 0.798
+head_proposed.png  S= 0.949

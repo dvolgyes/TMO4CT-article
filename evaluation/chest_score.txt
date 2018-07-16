@@ -1,0 +1,9 @@
+chest_drago.png  S= 0.904
+chest_durand.png  S= 0.899
+chest_fattal.png  S= 0.971
+chest_ferradans.png  S= 0.916
+chest_mantiuk06.png  S= 0.918
+chest_mantiuk08.png  S= 0.976
+chest_reinhard02.png  S= 0.898
+chest_reinhard05.png  S= 0.908
+chest_proposed.png  S= 0.957

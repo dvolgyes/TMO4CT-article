@@ -1,0 +1,9 @@
+chest_drago.png  0.208 5.96
+chest_durand.png  0.212 6.12
+chest_fattal.png  0.217 6.89
+chest_ferradans.png  0.014 6.71
+chest_mantiuk06.png  0.226 7.38
+chest_mantiuk08.png  0.216 6.77
+chest_reinhard02.png  0.206 5.81
+chest_reinhard05.png  0.208 6.00
+chest_proposed.png  0.226 7.03
